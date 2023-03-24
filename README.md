@@ -5,7 +5,7 @@ CAIRAD specification from:
 
 *Rahman, M. G., Islam, M. Z., Bossomaier, T., & Gao, J. (2012, June). Cairad: A co-appearance based analysis for incorrect records and attribute-values detection.* In The 2012 International Joint Conference on Neural Networks (IJCNN) (pp. 1-10). IEEE. Available at [http://doi.org/10.1109/ijcnn.2012.6252669](http://doi.org/10.1109/ijcnn.2012.6252669)
 
-For more information, please see Associate Professor Zahid Islam's website [here](http://csusap.csu.edu.au/~zislam/)
+For more information, please see Dr Gea Rahman's website [here](https://csusap.csu.edu.au/~grahman/)
 
 ## BibTeX
 ```
